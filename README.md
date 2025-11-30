@@ -746,7 +746,7 @@ console.print(tabulate(filas, headers=columnas, tablefmt="grid"))
 
 ##  Créditos
 
-**Desarrollado por:** Fernando Correa, Farid Chaves y Jose Contreras  
+**Desarrollado por:** Fernando Correa, Farid Chavez y Jose Contreras  
 **Curso:** Base de Datos  
 **Institución:** Tecsup  
 **Año:** 2025
