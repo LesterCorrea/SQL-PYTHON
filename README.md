@@ -6,16 +6,16 @@ Sistema completo de gestión de bases de datos Oracle XE con interfaz de consola
 
 ##  Tabla de Contenidos
 
-1. [Características](#-características)
-2. [Requisitos](#-requisitos)
-3. [Instalación](#-instalación)
-4. [Configuración](#%EF%B8%8F-configuración)
-5. [Estructura del Proyecto](#-estructura-del-proyecto)
-6. [Uso del Sistema](#-uso-del-sistema)
-7. [Funcionalidades Detalladas](#-funcionalidades-detalladas)
-8. [Ejemplos Prácticos](#-ejemplos-prácticos)
-9. [Solución de Problemas](#-solución-de-problemas)
-10. [Créditos](#-créditos)
+1. [Características](#características)
+2. [Requisitos](#requisitos)
+3. [Instalación](#instalación)
+4. [Configuración](#configuración)
+5. [Estructura del Proyecto](#estructura-del-proyecto)
+6. [Uso del Sistema](#uso-del-sistema)
+7. [Funcionalidades Detalladas](#funcionalidades-detalladas)
+8. [Ejemplos Prácticos](#ejemplos-prácticos)
+9. [Solución de Problemas](#solución-de-problemas)
+10. [Créditos](#créditos)
 
 ---
 
